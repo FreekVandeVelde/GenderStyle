@@ -1,0 +1,119 @@
+Inputfile,YEAR,AUTHOR,AUTHOR_t,GENDER,Gender,AUTHORS,TTR_inhwrd,TTR_inhwrd_zonder_abw
+input/GID_1980_14_ Balk-Smit Duyzenkunst.txt,1980, Balk-Smit Duyzenkunst ,Balk-Smit Duyzenkunst,F,F,F.30,0.846154,0.881773
+input/NIE_1950_94_Achterberg.txt,1950,Achterberg ,Achterberg,M,M,M.3,0.875817,0.923954
+input/GEM_1932_74_Anton van Duinkerken.txt,1932,Anton van Duinkerken ,Anton van Duinkerken,M,M,M.19,0.837093,0.869806
+input/GEM_1940_17_Anton van Duinkerken.txt,1940,Anton van Duinkerken ,Anton van Duinkerken,M,M,M.19,0.779449,0.793388
+input/GID_1887_90_Bellaar Spruyt.txt,1887,Bellaar Spruyt ,Bellaar Spruyt,M,M,M.27,0.806569,0.848739
+input/GID_1906_73_Belpaire.txt,1906,Belpaire ,Belpaire,F,F,F.22,0.804444,0.817308
+input/GID_1994_4_Beurskens.txt,1994,Beurskens ,Beurskens,M,M,M.17,0.672680,0.707692
+input/GID_1887_8_Boddaert.txt,1887,Boddaert ,Boddaert,F,F,F.8,0.912338,0.921233
+input/GID_1893_111_Boddaert.txt,1893,Boddaert ,Boddaert,F,F,F.8,0.760000,0.806723
+input/GID_1990_44_Boheemen-Saaf.txt,1990,Boheemen-Saaf ,Boheemen-Saaf,F,F,F.17,0.778523,0.781022
+input/GID_1988_185_Boheemen-Saaf.txt,1988,Boheemen-Saaf ,Boheemen-Saaf,F,F,F.17,0.787037,0.813149
+input/GID_1887_33_Boissevain.txt,1887,Boissevain ,Boissevain,M,M,M.13,0.880952,0.890909
+input/DIE_1986_90_Bousset.txt,1986,Bousset ,Bousset,M,M,M.4,0.852140,0.865801
+input/DIE_1999_33_Bousset.txt,1999,Bousset ,Bousset,M,M,M.4,0.849231,0.850498
+input/GID_1915_7_Boxman-Winkler.txt,1915,Boxman-Winkler ,Boxman-Winkler,F,F,F.5,0.862348,0.866525
+input/ONT_1962_151_Boyens.txt,1962,Boyens ,Boyens,F,F,F.21,0.876506,0.904437
+input/GID_1992_106_Brassinga.txt,1992,Brassinga ,Brassinga,F,F,F.36,0.806854,0.831502
+input/DIE_1975_57_Brems.txt,1975,Brems ,Brems,M,M,M.5,0.825000,0.866667
+input/DIE_1988_34_Brems.txt,1988,Brems ,Brems,M,M,M.20,0.717314,0.813084
+input/GID_1893_21_Byvanck.txt,1893,Byvanck ,Byvanck,M,M,M.20,0.788372,0.798942
+input/GID_1903_81_Byvanck.txt,1903,Byvanck ,Byvanck,M,M,M.20,0.840708,0.867647
+input/JAA_1950_29_C.G.N de Vooys.txt,1950,C.G.N. de Vooys ,C.G.N. de Vooys,M,M,M.15,0.899582,0.908676
+input/TAA_1913_45_C.G.N. de Vooys.txt,1913,C.G.N. de Vooys ,C.G.N. de Vooys,M,M,M.15,0.787500,0.797251
+input/TAA_1923_45_C.G.N. de Vooys.txt,1923,C.G.N. de Vooys ,C.G.N. de Vooys,M,M,M.15,0.779570,0.792683
+input/TAA_1940_28_C.G.N. de Vooys.txt,1940,C.G.N. de Vooys ,C.G.N. de Vooys,M,M,M.15,0.845588,0.872510
+input/TAA_1930_46_C.G.N. de Vooys.txt,1930,C.G.N. de Vooys ,C.G.N. de Vooys,M,M,M.15,0.861592,0.863469
+input/GID_1889_67_Carelsen.txt,1889,Carelsen ,Carelsen,F,F,F.44,0.851986,0.859504
+input/ONT_1961_149_Cheixaou.txt,1961,Cheixaou ,Cheixaou,F,F,F.1,0.887538,0.903010
+input/GRO_1910_34_Coenen.txt,1910,Coenen ,Coenen,M,M,M.28,0.811927,0.846154
+input/GID_1963_52_Condstandse.txt,1963,Constandse ,Constandse,M,M,M.25,0.825397,0.841410
+input/GID_1971_1_Constandse.txt,1971,Constandse ,Constandse,M,M,M.25,0.914163,0.932039
+input/GID_1894_10_Couperus.txt,1894,Couperus ,Couperus,M,M,M.8,0.773292,0.814947
+input/DIE_1989_7_de Jong.txt,1989,de Jong ,de Jong,F,F,F.12,0.815972,0.823755
+input/SPI_1978_9_de Jong.txt,1978,de Jong ,de Jong,F,F,F.12,0.826613,0.837963
+input/DIE_1991_108_de Martelaere.txt,1991,de Martelaere ,de Martelaere,F,F,F.23,0.746082,0.782258
+input/GID_1984_264_de Martelaere.txt,1984,de Martelaere ,de Martelaere,F,F,F.23,0.737179,0.772908
+input/GID_1910_117_de Meester.txt,1910,de Meester ,de Meester,M,M,M.30,0.878981,0.913357
+input/DIE_1978_87_Desmedts.txt,1978,Demedts André,Demedts André,M,M,M.18,0.803030,0.806867
+input/DIE_1981_10_Demedts.txt,1981,Demedts André,Demedts André,M,M,M.18,0.875000,0.875000
+input/DIE_1938_54_Demedts.txt,1938,Demedts Gabriëlle,Demedts Gabriëlle,F,F,F.15,0.757679,0.826271
+input/NVT_1965_132_Dhaen.txt,1965,Dhaen ,Dhaen,F,F,F.7,0.605263,0.636364
+input/NVT_1950_117_Dhaen.txt,1950,Dhaen ,Dhaen,F,F,F.7,0.862797,0.860274
+input/DIE_1984_84_Dhaen.txt,1984,Dhaen ,Dhaen,F,F,F.7,0.896635,0.893671
+input/DIE_1948_13_Dhaen.txt,1948,Dhaen ,Dhaen,F,F,F.7,0.946927,0.955882
+input/NIE_1960_12_Donkersloot.txt,1960,Donkersloot ,Donkersloot,M,M,M.14,0.698006,0.724739
+input/NIE_1954_54_Donkersloot.txt,1954,Donkersloot ,Donkersloot,M,M,M.14,0.785211,0.795918
+input/DIE_1919_60_Duykens.txt,1919,Duykens ,Duykens,F,F,F.43,0.606625,0.648379
+input/GID_1955_57_Emmy van Lokhorst.txt,1955,Emmy van Lokhorst ,Emmy van Lokhorst,F,F,F.18,0.826816,0.836364
+input/GID_1957_77_Greshoff.txt,1957,Greshoff ,Greshoff,M,M,M.38,0.741425,0.785047
+input/GID_1915_61_H.T. Colenbrander.txt,1915,H.T. Colenbrander ,H.T. Colenbrander,M,M,M.1,0.805825,0.833333
+input/GID_1923_98_H.T. Colenbrander.txt,1923,H.T. Colenbrander ,H.T. Colenbrander,M,M,M.1,0.795848,0.848980
+input/GID_1931_16_H.T. Colenbrander.txt,1931,H.T. Colenbrander ,H.T. Colenbrander,M,M,M.1,0.859375,0.906404
+input/GID_1995_2_Hertmans.txt,1995,Hertmans ,Hertmans,M,M,M.31,0.757463,0.807339
+input/NVT_1979_94_Hirs.txt,1979,Hirs ,Hirs,F,F,F.34,NA,NA
+input/GID_1930_15_Holst-van der Schalk.txt,1930,Holst-van der Schalk ,Holst-van der Schalk,F,F,F.3,0.826367,0.827586
+input/DIE_1941_16_Holst-van der Schalken.txt,1941,Holst-van der Schalk,Holst-van der Schalk,F,F,F.3,0.858156,0.868217
+input/STR_1940_48_Janssen.txt,1940,Janssen ,Janssen,M,M,M.9,0.839357,0.876712
+input/NVT_1961_75_Jonckheere.txt,1961,Jonckheere ,Jonckheere,M,M,M.24,0.813636,0.842932
+input/NVT_1946_22_Jonckheere.txt,1946,Jonckheere ,Jonckheere,M,M,M.24,0.880952,0.922018
+input/DIE_1931_77_Koenen.txt,1931,Koenen ,Koenen,F,F,F.24,0.883212,0.887160
+input/GID_1985_106_Kusters.txt,1985,Kusters ,Kusters,M,M,M.10,0.665698,0.697595
+input/DIE_1994_75_Kusters.txt,1994,Kusters ,Kusters,M,M,M.40,0.818565,0.842105
+input/NVT_1978_48_Lasoen.txt,1978,Lasoen ,Lasoen,F,F,F.19,0.896861,0.930851
+input/ONT_1958_121_Lievaart.txt,1958,Lievaart ,Lievaart,F,F,F.11,0.696056,0.757225
+input/DIE_1939_89_Louisa Duykers.txt,1939,Louisa Duykers ,Louisa Duykers,F,F,F.27,0.824242,0.837748
+input/GID_1886_25_Loveling.txt,1886,Loveling ,Loveling,F,F,F.9,0.813008,0.815315
+input/DIE_1925_82_M.E. Belpaire.txt,1925,M.E. Belpaire ,M.E. Belpaire,F,F,F.22,0.778116,0.803448
+input/GID_1883_7_Macalester Loup.txt,1883,Macalester Loup ,Macalester Loup,M,M,M.36,0.842105,0.884259
+input/DIE_1922_22_Maria Jozefa.txt,1922,Maria Jozefa ,Maria Jozefa,F,F,F.16,0.853933,0.868657
+input/GID_1899_97_Meijboom.txt,1899,Meijboom ,Meijboom,F,F,F.13,0.404628,0.429090
+input/TAA_1993_17_Meijer Drees.txt,1993,Meijer Drees ,Meijer Drees,F,F,F.26,0.811475,0.815029
+input/ONT_1946_40_Mertens.txt,1946,Mertens ,Mertens,F,F,F.37,0.807471,0.857616
+input/GID_1901_119_Metz-Koning.txt,1901,Metz-Koning ,Metz-Koning,F,F,F.29,0.792237,0.827676
+input/TAA_1952_84_Michels.txt,1952,Michels ,Michels,M,M,M.39,0.899582,0.908676
+input/DIE_1929_46_Persyn.txt,1929,Persyn ,Persyn,M,M,M.21,0.877551,0.882784
+input/ONT_1959_27_Petit.txt,1959,Petit ,Petit,F,F,F.14,0.722513,0.764516
+input/GID_1886_10_Pijzel.txt,1886,Pijzel ,Pijzel,M,M,M.12,0.809735,0.815534
+input/GID_1894_55_Rijkevorsel.txt,1894,Rijkevorsel ,Rijkevorsel,F,F,F.28,0.770115,0.834146
+input/NIE_1957_39_Romein-Verschoor.txt,1957,Romein-Verschoor ,Romein-Verschoor,F,F,F.33,0.807895,0.847095
+input/GID_1974_8_Romein-Verschoorn.txt,1974,Romein-Verschoor,Romein-Verschoor,F,F,F.33,0.807018,0.841379
+input/ONT_1962_121_Rutke.txt,1962,Rutke ,Rutke,F,F,F.10,0.794953,0.846457
+input/GID_1918_73_Salomons.txt,1918,Salomons ,Salomons,F,F,F.31,0.747204,0.787500
+input/GRO_1905_54_Salomons.txt,1905,Salomons ,Salomons,F,F,F.39,0.820000,0.847273
+input/DIE_1908_71_Sanders van Loo.txt,1908,Sanders van Loo ,Sanders van Loo,F,F,F.25,0.732852,0.776824
+input/GID_1898_73_Scharten-Atink.txt,1898,Scharten-Atink ,Scharten-Atink,F,F,F.41,0.841772,0.854237
+input/GID_1998_71_Schutte.txt,1998,Schutte ,Schutte,F,F,F.38,0.691083,0.714829
+input/JAA_1923_4_Surrier.txt,1923,Surrier ,Surrier,F,F,F.2,0.785016,0.789091
+input/GID_1938_9_Surrier.txt,1938,Surrier ,Surrier,F,F,F.2,0.842657,0.855513
+input/GID_1946_20_Surrier.txt,1946,Surrier ,Surrier,F,F,F.2,0.860627,0.883268
+input/GID_1889_16_Swarth.txt,1889,Swarth ,Swarth,F,F,F.6,0.796923,0.853147
+input/GID_1891_37_Swarth.txt,1891,Swarth ,Swarth,F,F,F.6,0.771429,0.792969
+input/GID_1900_36_Swarth.txt,1900,Swarth ,Swarth,F,F,F.6,0.828235,0.835411
+input/GRO_1911_34_Swarth.txt,1911,Swarth ,Swarth,F,F,F.6,0.696056,0.715385
+input/GID_1920_2_Swarth.txt,1920,Swarth ,Swarth,F,F,F.6,0.834515,0.861257
+input/TAA_1992_16_Twilhaar.txt,1992,Twilhaar ,Twilhaar,M,M,M.35,0.735294,0.736364
+input/GRO_1920_4_van Bruggen.txt,1920,van Bruggen ,van Bruggen,F,F,F.0,0.693989,0.754153
+input/GRO_1919_34_van Bruggen.txt,1919,van Bruggen ,van Bruggen,F,F,F.0,0.820946,0.825926
+input/TAA_1969_7_van Buuren.txt,1969,van Buuren ,van Buuren,F,F,F.35,0.737313,0.747475
+input/GID_1887_48_van der Feen.txt,1887,van der Feen ,van der Feen,F,F,F.20,0.885714,0.886364
+input/ONT_1947_134_van Eijsselsteijn.txt,1947,van Eijsselsteijn ,van Eijsselsteijn,F,F,F.4,0.666667,0.701258
+input/GID_1882_6_van Hall.txt,1882,van Hall ,van Hall,M,M,M.11,0.849858,0.874608
+input/GID_1896_20_van Hall.txt,1896,van Hall ,van Hall,M,M,M.11,0.814815,0.846809
+input/GID_1901_121_van Hall.txt,1901,van Hall ,van Hall,M,M,M.11,0.811715,0.830189
+input/GID_1910_86_van Hall.txt,1910,van Hall ,van Hall,M,M,M.11,0.840336,0.874396
+input/GID_1895_78_van Hamel.txt,1895,van Hamel ,van Hamel,M,M,M.32,0.752475,0.807580
+input/GID_1907_70_van Nouhuys.txt,1907,van Nouhuys ,van Nouhuys,M,M,M.7,0.826446,0.867299
+input/GEM_1932_31_van Oosten.txt,1932,van Oosten ,van Oosten,M,M,M.34,0.890830,0.899497
+input/NVT_1973_52_van Paemel.txt,1973,van Paemel ,van Paemel,F,F,F.40,0.801394,0.835391
+input/TAA_1974_10_vanHaeringen.txt,1974,vanHaeringen ,vanHaeringen,M,M,M.22,0.756757,0.768041
+input/TAA_1968_88_vanHaeringen.txt,1968,vanHaeringen ,vanHaeringen,M,M,M.22,0.762452,0.834101
+input/DIE_1985_28_Vermeiren.txt,1985,Vermeiren ,Vermeiren,M,M,M.21,0.817164,0.843049
+input/FOR_1934_12_Vestdijk.txt,1934,Vestdijk ,Vestdijk,M,M,M.29,0.801187,0.872263
+input/GID_1894_17_Viotta.txt,1894,Viotta ,Viotta,M,M,M.23,0.790598,0.816038
+input/GID_1909_92_Viotta.txt,1909,Viotta ,Viotta,M,M,M.23,0.802974,0.820084
+input/NVT_1963_122_Walschap.txt,1963,Walschap ,Walschap,M,M,M.16,0.788079,0.834615
+input/DIE_1926_46_Walschap.txt,1926,Walschap ,Walschap,M,M,M.16,0.711191,0.761062
+input/NVT_1973_63_Wesselo.txt,1973,Wesselo ,Wesselo,M,M,M.37,0.723881,0.758410
+input/DIE_1946_82_Westerlinck.txt,1946,Westerlinck ,Westerlinck,M,M,M.33,0.880478,0.921659
